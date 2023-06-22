@@ -1,5 +1,5 @@
 ### Hi there, I'm Luca Arduini 👋
-# I am a student pursuing a Master's Degree in Artificial Intelligence and Data Engineering at the University of Pisa #
+I am a student pursuing a Master's Degree in Artificial Intelligence and Data Engineering at the University of Pisa
 <!--
 **LucaArduini/LucaArduini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
