@@ -7,7 +7,7 @@ I am a student pursuing a Master's Degree in Artificial Intelligence and Data En
 <img align="left" style="margin-right:10px" alt="C" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
 <img align="left" style="margin-right:10px" alt="Java" height="28px" src="https://upload.wikimedia.org/wikipedia/it/thumb/2/2e/Java_Logo.svg/145px-Java_Logo.svg.png" />
 <img align="left" style="margin-right:10px" alt="Python" height="28px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png" />
-<img align="left" style="margin-right:10px" alt="MySQL" height="28px" src="https://static-00.iconduck.com/assets.00/database-mysql-icon-462x512-6itsq0zm.png" />
+<img align="left" style="margin-right:10px" alt="MySQL" height="28px" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png" />
 <img align="left" style="margin-right:10px" alt="HTML5" height="28px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" />
 <img align="left" style="margin-right:10px" alt="CSS" height="28px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" />
 <img align="left" style="margin-right:10px" alt="JavaScript" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Javascript-736400_960_720.png" />
