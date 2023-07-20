@@ -2,7 +2,6 @@
 I am a student pursuing a Master's Degree in Artificial Intelligence and Data Engineering at the University of Pisa. I have previously completed a Bachelor's Degree in Computer Engineering ⚙💻.
 
 ### Skills:
-<img align="left" style="margin-right:10px" alt="Visual Studio Code" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/150px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" style="margin-right:10px" alt="C++" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/240px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" style="margin-right:10px" alt="C" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
 <img align="left" style="margin-right:10px" alt="Java" height="28px" src="https://upload.wikimedia.org/wikipedia/it/thumb/2/2e/Java_Logo.svg/145px-Java_Logo.svg.png" />
