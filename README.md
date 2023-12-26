@@ -1,7 +1,7 @@
 ## Hi there, I'm Luca Arduini 👋
 I am a student pursuing a Master's Degree in Artificial Intelligence and Data Engineering at the University of Pisa. I have previously completed a Bachelor's Degree in Computer Engineering ⚙💻.
 
-You can find more about me [here!](https://linktr.ee/arduini37)
+You can find more info about me on my [Linktree page](https://linktr.ee/arduini37). Check it out for some extra goodies!
 
 ### Skills:
 <img align="left" style="margin-right:10px" alt="C++" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/240px-ISO_C%2B%2B_Logo.svg.png" />
