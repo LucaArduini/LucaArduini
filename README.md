@@ -3,6 +3,7 @@ I am a student pursuing a Master's Degree in Artificial Intelligence and Data En
 
 You can find more info about me on my [Linktree page](https://linktr.ee/arduini37). Check it out for some extra goodies!
 
+<!--
 ### Skills:
 <img align="left" style="margin-right:10px" alt="C++" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/240px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" style="margin-right:10px" alt="C" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
@@ -15,6 +16,7 @@ You can find more info about me on my [Linktree page](https://linktr.ee/arduini3
 <img align="left" style="margin-right:10px" alt="Latex" height="28px" src="https://static.javatpoint.com/tutorial/latex/images/latex-tutorial.png" />
 <img align="left" style="margin-right:10px" alt="Github" height="28px" src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png" />
 <br/>
+-->
 
 ### Social:
 <a href="https://www.instagram.com/arduini37">
