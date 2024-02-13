@@ -16,6 +16,13 @@ You can find more info about me on my [Linktree page](https://linktr.ee/arduini3
 <img align="left" style="margin-right:10px" alt="Github" height="28px" src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png" />
 <br/>
 
+### Social:
+<a href="https://www.instagram.com/arduini37">
+  <img align="left" style="margin-right:10px" alt="Instagram" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />
+</a>
+<a href="https://t.me/arduini37">
+  <img align="left" style="margin-right:10px" alt="Telegram" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" />
+</a>
 
 <!--
 **LucaArduini/LucaArduini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
