@@ -19,6 +19,9 @@ You can find more info about me on my [Linktree page](https://linktr.ee/arduini3
 -->
 
 ### Social:
+<a href="https://linktr.ee/arduini37">
+  <img align="left" style="margin-right:10px" alt="Linktree" height="35px" src="https://api.blog.production.linktr.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png" />
+</a>
 <a href="https://www.instagram.com/arduini37">
   <img align="left" style="margin-right:10px" alt="Instagram" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />
 </a>
