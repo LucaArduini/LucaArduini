@@ -25,6 +25,9 @@ You can find more info about me on my [Linktree page](https://linktr.ee/arduini3
 <a href="https://www.instagram.com/arduini37">
   <img align="left" style="margin-right:10px" alt="Instagram" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />
 </a>
+<a href="https://www.linkedin.com/in/luca-arduini-a8357b28a/">
+  <img align="left" style="margin-right:10px" alt="LinkedIn" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
+</a>
 <a href="https://t.me/arduini37">
   <img align="left" style="margin-right:10px" alt="Telegram" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" />
 </a>
